@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "name": "gridsome-source-wordpress-com",
+  "description": "WordPress.com Source for Gridsome",
+  "homepage": "https://github.com/iamthismarvin/gridsome-source-wordpress-com#readme",
+  "repository": "https://github.com/iamthismarvin/gridsome-source-wordpress-com",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "wordpress"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10",
+    "p-map": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=8.3"
+  }
+}
